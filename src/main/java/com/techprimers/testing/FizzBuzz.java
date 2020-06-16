@@ -1,5 +1,13 @@
 package com.techprimers.testing;
 
+
+
+/*
+ * 
+ *  added author
+ * 
+ * 
+  */
 public class FizzBuzz {
 
     public String play(int number) {
